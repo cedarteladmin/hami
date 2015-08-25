@@ -1,0 +1,14 @@
+.header-icon{
+float:left;
+
+}
+.fixed-width {
+    width: 75%;
+    height:75%;
+    min-width: 300px;
+    min-height:200px;
+    border:1px solid #000000;
+}
+.refresh-icon-color{
+	color: #33CC33;
+}
